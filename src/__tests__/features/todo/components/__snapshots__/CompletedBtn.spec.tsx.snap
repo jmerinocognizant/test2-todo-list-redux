@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <CompletedBtn /> debe de hacer match con el snapshot 1`] = `
+<div>
+  <button
+    aria-label="btn-completed"
+    class="btn btn-block btn-outline-primary item-btn"
+  >
+    <i
+      class="fa-solid fa-check"
+    />
+  </button>
+</div>
+`;

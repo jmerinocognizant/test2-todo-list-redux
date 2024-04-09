@@ -1,0 +1,362 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="container-fluid"
+  >
+    <ul
+      class="list-group mt-3"
+    >
+      <hr />
+      <div
+        aria-label="todo-item"
+        class="container-fluid todo-item"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-completed"
+              class="btn btn-block btn-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-check"
+              />
+            </button>
+          </div>
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-important"
+              class="btn btn-block btn-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-exclamation"
+              />
+            </button>
+          </div>
+          <div
+            class="col"
+          >
+            <div
+              aria-label="item-description"
+              class="w-100 p-0"
+            >
+              <span
+                class="h6 v-top "
+              >
+                Install NodeJS
+              </span>
+            </div>
+          </div>
+          <div
+            class="col-auto mt-0"
+          >
+            <button
+              aria-label="btn-remove"
+              class="btn btn-danger align-top"
+            >
+              remove
+            </button>
+          </div>
+        </div>
+      </div>
+      <hr />
+      <div
+        aria-label="todo-item"
+        class="container-fluid todo-item"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-completed"
+              class="btn btn-block btn-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-check"
+              />
+            </button>
+          </div>
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-important"
+              class="btn btn-block btn-outline-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-exclamation"
+              />
+            </button>
+          </div>
+          <div
+            class="col"
+          >
+            <div
+              aria-label="item-description"
+              class="w-100 p-0"
+            >
+              <span
+                class="h6 v-top "
+              >
+                Install Angular CLI
+              </span>
+            </div>
+          </div>
+          <div
+            class="col-auto mt-0"
+          >
+            <button
+              aria-label="btn-remove"
+              class="btn btn-danger align-top"
+            >
+              remove
+            </button>
+          </div>
+        </div>
+      </div>
+      <hr />
+      <div
+        aria-label="todo-item"
+        class="container-fluid todo-item"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-completed"
+              class="btn btn-block btn-outline-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-check"
+              />
+            </button>
+          </div>
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-important"
+              class="btn btn-block btn-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-exclamation"
+              />
+            </button>
+          </div>
+          <div
+            class="col"
+          >
+            <div
+              aria-label="item-description"
+              class="w-100 p-0"
+            >
+              <span
+                class="h6 v-top "
+              >
+                Create new app
+              </span>
+            </div>
+          </div>
+          <div
+            class="col-auto mt-0"
+          >
+            <button
+              aria-label="btn-remove"
+              class="btn btn-danger align-top"
+            >
+              remove
+            </button>
+          </div>
+        </div>
+      </div>
+      <hr />
+      <div
+        aria-label="todo-item"
+        class="container-fluid todo-item"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-completed"
+              class="btn btn-block btn-outline-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-check"
+              />
+            </button>
+          </div>
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-important"
+              class="btn btn-block btn-outline-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-exclamation"
+              />
+            </button>
+          </div>
+          <div
+            class="col"
+          >
+            <div
+              aria-label="item-description"
+              class="w-100 p-0"
+            >
+              <span
+                class="h6 v-top "
+              >
+                Serve app
+              </span>
+            </div>
+          </div>
+          <div
+            class="col-auto mt-0"
+          >
+            <button
+              aria-label="btn-remove"
+              class="btn btn-danger align-top"
+            >
+              remove
+            </button>
+          </div>
+        </div>
+      </div>
+      <hr />
+      <div
+        aria-label="todo-item"
+        class="container-fluid todo-item"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-completed"
+              class="btn btn-block btn-outline-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-check"
+              />
+            </button>
+          </div>
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-important"
+              class="btn btn-block btn-outline-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-exclamation"
+              />
+            </button>
+          </div>
+          <div
+            class="col"
+          >
+            <div
+              aria-label="item-description"
+              class="w-100 p-0"
+            >
+              <span
+                class="h6 v-top "
+              >
+                Develop app
+              </span>
+            </div>
+          </div>
+          <div
+            class="col-auto mt-0"
+          >
+            <button
+              aria-label="btn-remove"
+              class="btn btn-danger align-top"
+            >
+              remove
+            </button>
+          </div>
+        </div>
+      </div>
+      <hr />
+      <div
+        aria-label="todo-item"
+        class="container-fluid todo-item"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-completed"
+              class="btn btn-block btn-outline-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-check"
+              />
+            </button>
+          </div>
+          <div
+            class="col-auto mt-0  v-top"
+          >
+            <button
+              aria-label="btn-important"
+              class="btn btn-block btn-outline-primary item-btn"
+            >
+              <i
+                class="fa-solid fa-exclamation"
+              />
+            </button>
+          </div>
+          <div
+            class="col"
+          >
+            <div
+              aria-label="item-description"
+              class="w-100 p-0"
+            >
+              <span
+                class="h6 v-top "
+              >
+                Deploy app
+              </span>
+            </div>
+          </div>
+          <div
+            class="col-auto mt-0"
+          >
+            <button
+              aria-label="btn-remove"
+              class="btn btn-danger align-top"
+            >
+              remove
+            </button>
+          </div>
+        </div>
+      </div>
+    </ul>
+  </div>
+</div>
+`;

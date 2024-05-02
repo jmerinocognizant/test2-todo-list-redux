@@ -9,6 +9,7 @@ import {
     updateTodo,
     setEditable,
   } from '../store/todoSlice';
+import { TodoItemBtn } from "./TodoItemBtn";
   
 interface props {
     todo: Todo,
@@ -52,10 +53,12 @@ export const TodoItem = ( {todo,editable}:props) => {
             <div aria-label="todo-item" className="container-fluid todo-item">
                 <div className="row">
                     <div className="col-auto mt-0  v-top">
-                        <CompletedBtn completed={todo.completed} onClickHandler={handleClickCompleted}/>
+                        {/* <CompletedBtn completed={todo.completed} onClickHandler={handleClickCompleted}/>  */}
+                        <TodoItemBtn aria-label="btn-completed" checked={todo.completed} classNameIcon="fa-solid fa-check" onClickHandler={handleClickCompleted} />
                     </div>
                     <div className="col-auto mt-0  v-top">
-                        <ImportantBtn important={todo.important} onClickHandler={handleClickImportant}/>
+                        {/* <ImportantBtn important={todo.important} onClickHandler={handleClickImportant}/> */}
+                        <TodoItemBtn aria-label="btn-important" checked={todo.important} classNameIcon="fa-solid fa-exclamation" onClickHandler={handleClickImportant} />
                     </div>
                     
                     <div className="col">

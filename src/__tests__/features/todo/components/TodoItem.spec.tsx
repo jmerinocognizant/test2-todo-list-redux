@@ -39,10 +39,12 @@ describe('Pruebas en <TodoItem />', () => {
        );
         //screen.debug();
 
-        const button = screen.getByRole('button',{name: 'btn-completed'})   
-        fireEvent.click(button);
+        // const button = screen.getByRole('button',{name: 'btn-completed'})   
+        // fireEvent.click(button);
         //console.log(store.getActions());
-        
+        const button = screen.getAllByRole('button',{name: 'btn-todo'});        
+        fireEvent.click(button[0]);
+
         const actions = store.getActions();
        // expect(actions.length).toBe(1);
         
@@ -67,10 +69,12 @@ describe('Pruebas en <TodoItem />', () => {
        );
         //screen.debug();
 
-        const button = screen.getByRole('button',{name: 'btn-important'})   
-        fireEvent.click(button);
+        // const button = screen.getByRole('button',{name: 'btn-important'})   
+        // fireEvent.click(button);
         //console.log(store.getActions());
-        
+        const button = screen.getAllByRole('button',{name: 'btn-todo'});        
+        fireEvent.click(button[1]);
+
         const actions = store.getActions();
        // expect(actions.length).toBe(1);
         

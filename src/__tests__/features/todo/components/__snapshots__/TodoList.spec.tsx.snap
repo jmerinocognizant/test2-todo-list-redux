@@ -20,7 +20,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-completed"
+              aria-label="btn-todo"
               class="btn btn-block btn-primary item-btn"
             >
               <i
@@ -32,7 +32,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-important"
+              aria-label="btn-todo"
               class="btn btn-block btn-primary item-btn"
             >
               <i
@@ -78,7 +78,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-completed"
+              aria-label="btn-todo"
               class="btn btn-block btn-primary item-btn"
             >
               <i
@@ -90,7 +90,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-important"
+              aria-label="btn-todo"
               class="btn btn-block btn-outline-primary item-btn"
             >
               <i
@@ -136,7 +136,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-completed"
+              aria-label="btn-todo"
               class="btn btn-block btn-outline-primary item-btn"
             >
               <i
@@ -148,7 +148,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-important"
+              aria-label="btn-todo"
               class="btn btn-block btn-primary item-btn"
             >
               <i
@@ -194,7 +194,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-completed"
+              aria-label="btn-todo"
               class="btn btn-block btn-outline-primary item-btn"
             >
               <i
@@ -206,7 +206,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-important"
+              aria-label="btn-todo"
               class="btn btn-block btn-outline-primary item-btn"
             >
               <i
@@ -252,7 +252,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-completed"
+              aria-label="btn-todo"
               class="btn btn-block btn-outline-primary item-btn"
             >
               <i
@@ -264,7 +264,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-important"
+              aria-label="btn-todo"
               class="btn btn-block btn-outline-primary item-btn"
             >
               <i
@@ -310,7 +310,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-completed"
+              aria-label="btn-todo"
               class="btn btn-block btn-outline-primary item-btn"
             >
               <i
@@ -322,7 +322,7 @@ exports[`Pruebas en <TodoList /> debe de hacer match con el snapshot 1`] = `
             class="col-auto mt-0  v-top"
           >
             <button
-              aria-label="btn-important"
+              aria-label="btn-todo"
               class="btn btn-block btn-outline-primary item-btn"
             >
               <i
